@@ -1,0 +1,7 @@
+export {default as Landing} from './Landing'
+export {default as ABout} from './ABout'
+export {default as Cocktail} from './Cocktail'
+export {default as NewsLetter} from './NewsLetter'
+export {default as Homelayout} from './Homelayout'
+export {default as Error} from './Error'
+export {default as SinglePageError} from './SinglePageError'
