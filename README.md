@@ -1,5 +1,5 @@
-#### SITE
-[Netlify](https://mixmasterreactapp.netlify.app/)
+#### SITE-NETLIFY
+[MixMaster](https://mixmasterreactapp.netlify.app/)
 
 #### Figma File
 
